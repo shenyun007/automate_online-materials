@@ -1,5 +1,6 @@
 #! python3
 # coding=utf-8
+#中文为方框的话需要安装字体 在centos中执行：yum install bitmap-fonts bitmap-fonts-cjk 在ubuntu中执行：sudo apt-get install
 from selenium import webdriver
 import os
 import time
