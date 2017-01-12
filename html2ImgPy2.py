@@ -1,5 +1,8 @@
 # coding=utf-8
-#中文为方框的话需要安装字体 在centos中执行：yum install bitmap-fonts bitmap-fonts-cjk 在ubuntu中执行：sudo apt-get install xfonts-wqy
+# 中文为方框的话需要安装字体
+# 在centos中执行：yum install bitmap-fonts bitmap-fonts-cjk
+# 在ubuntu中执行：sudo apt-get install xfonts-wqy
+# 如果要截取 html 文件需要使用 file:///D:/WebstormProjects/ZuiBlog/index.html 类似这样的方式
 from selenium import webdriver
 import os
 import time
