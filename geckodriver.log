@@ -1,0 +1,54 @@
+1484185414754	geckodriver	INFO	Listening on 127.0.0.1:59184
+1484185416758	mozprofile::profile	INFO	Using profile path C:\Users\zylia\AppData\Local\Temp\rust_mozprofile.vOxihXjv2Ls9
+1484185416765	geckodriver::marionette	INFO	Starting browser E:\Firefox Developer Edition\firefox.exe
+1484185416788	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59192
+1484185437715	geckodriver::marionette	ERROR	Failed to kill browser process
+1484185672477	geckodriver	INFO	Listening on 127.0.0.1:59329
+1484185674507	mozprofile::profile	INFO	Using profile path C:\Users\zylia\AppData\Local\Temp\rust_mozprofile.Bi0YCzUCAQM3
+1484185674518	geckodriver::marionette	INFO	Starting browser E:\Firefox Developer Edition\firefox.exe
+1484185674540	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59335
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1484185675941	Marionette	INFO	Listening on port 59335
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+Vector smash protection is enabled.
+1484185678942	Marionette	INFO	New connections will no longer be accepted
+[Child 21668] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1484185684133	geckodriver	INFO	Listening on 127.0.0.1:59368
+1484185686132	mozprofile::profile	INFO	Using profile path C:\Users\zylia\AppData\Local\Temp\rust_mozprofile.mJzWkKPI8fbW
+1484185686139	geckodriver::marionette	INFO	Starting browser E:\Firefox Developer Edition\firefox.exe
+1484185686155	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59375
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1484185687080	Marionette	INFO	Listening on port 59375
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+Vector smash protection is enabled.
+1484185690185	Marionette	INFO	New connections will no longer be accepted
+[Child 1660] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 6636] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1484185760119	geckodriver	INFO	Listening on 127.0.0.1:59408
+1484185762137	mozprofile::profile	INFO	Using profile path C:\Users\zylia\AppData\Local\Temp\rust_mozprofile.x3pikDFvZOF4
+1484185762144	geckodriver::marionette	INFO	Starting browser E:\Firefox Developer Edition\firefox.exe
+1484185762161	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59414
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1484185763079	Marionette	INFO	Listening on port 59414
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+Vector smash protection is enabled.
+1484185765865	Marionette	INFO	New connections will no longer be accepted
+[Child 22308] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 12248] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1484185772015	geckodriver	INFO	Listening on 127.0.0.1:59444
+1484185774013	mozprofile::profile	INFO	Using profile path C:\Users\zylia\AppData\Local\Temp\rust_mozprofile.T8JS7qrK1grg
+1484185774020	geckodriver::marionette	INFO	Starting browser E:\Firefox Developer Edition\firefox.exe
+1484185774037	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59450
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1484185774957	Marionette	INFO	Listening on port 59450
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+Vector smash protection is enabled.
+1484185777863	Marionette	INFO	New connections will no longer be accepted
+[Child 1552] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1484185787032	geckodriver	INFO	Listening on 127.0.0.1:59480
+1484185789052	mozprofile::profile	INFO	Using profile path C:\Users\zylia\AppData\Local\Temp\rust_mozprofile.hHC2uTJddS1e
+1484185789063	geckodriver::marionette	INFO	Starting browser E:\Firefox Developer Edition\firefox.exe
+1484185789080	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59486
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1484185789980	Marionette	INFO	Listening on port 59486
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
